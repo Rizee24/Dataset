@@ -1,4 +1,4 @@
-Tanggal,Suhu,Kelembaban_Tanah,Curah_Hujan,Nutrisi_Tanah,Pengendalian_Hama
+Tanggal,Suhu(°C),Kelembaban Tanah(%),Curah Hujan(mm),Nutrisi Tanah(1-10),Pengendalian Hama (1-5)
 2018-01-01,27,40,5,4,3
 2018-02-01,28,45,10,5,2
 2018-03-01,30,42,8,6,3
